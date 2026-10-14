@@ -1,0 +1,24 @@
+{
+  "negocio": "Clínica Dental Dra. Cortés",
+  "claim": "Tu sonrisa, en buenas manos.",
+  "logo": "assets/logo.svg",
+  "colores": { "primario": "#2FB5A6", "secundario": "#0C3B45", "fondo": "#F6F1EA", "texto": "#12262B" },
+  "tipografias": { "titulos": "Fraunces", "texto": "Manrope" },
+  "contacto": {
+    "tel": "93 371 76 97",
+    "whatsapp": "",
+    "direccion": "Av. de Cornellà, 2, 1-3, 08950 Esplugues de Llobregat, Barcelona",
+    "mapa": "https://maps.app.goo.gl/Kgg5osQqaFNeqS8S7",
+    "horario": "Lunes a viernes 9:00–13:00 y 16:00–20:00. Sábado y domingo cerrado."
+  },
+  "servicios_pendientes_de_confirmar": [
+    "Odontología general (revisiones, limpiezas, empastes)",
+    "Estética dental (blanqueamiento, carillas)",
+    "Ortodoncia (brackets, alineadores invisibles)",
+    "Implantes y prótesis",
+    "Endodoncia y periodoncia",
+    "Odontopediatría"
+  ],
+  "fotos_stock": "Unsplash, enlazadas en directo desde images.unsplash.com (sustituir por fotos propias de la clínica)",
+  "pruebas_sociales": [], "historia": "", "premios": [], "resenas": []
+}

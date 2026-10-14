@@ -2,8 +2,16 @@
   "negocio": "Clínica Dental Dra. Cortés",
   "claim": "Tu sonrisa, en buenas manos.",
   "logo": "assets/logo.svg",
-  "colores": { "primario": "#2FB5A6", "secundario": "#0C3B45", "fondo": "#F6F1EA", "texto": "#12262B" },
-  "tipografias": { "titulos": "Fraunces", "texto": "Manrope" },
+  "colores": {
+    "primario": "#6E4BA3",
+    "secundario": "#2E1F47",
+    "fondo": "#E8DEF5",
+    "texto": "#2A2238"
+  },
+  "tipografias": {
+    "titulos": "Fraunces",
+    "texto": "Manrope"
+  },
   "contacto": {
     "tel": "93 371 76 97",
     "whatsapp": "",
@@ -20,5 +28,8 @@
     "Odontopediatría"
   ],
   "fotos_stock": "Unsplash, enlazadas en directo desde images.unsplash.com (sustituir por fotos propias de la clínica)",
-  "pruebas_sociales": [], "historia": "", "premios": [], "resenas": []
+  "pruebas_sociales": [],
+  "historia": "",
+  "premios": [],
+  "resenas": []
 }

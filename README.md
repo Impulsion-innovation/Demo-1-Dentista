@@ -1,8 +1,8 @@
 # Clínica Dental Dra. Cortés — web demo
 
 Landing de demostración para **Clínica Dental Dra. Cortés** (Esplugues de Llobregat).
-Una sola página: el scroll recorre un "vuelo 3D" por la clínica (motion-kit del Kit Cazador de Webs)
-y termina en un pie estático con teléfono, horario, mapa y tratamientos.
+Una sola página con scroll normal y fondo lila: inicio, forma de trabajar, tratamientos, horario,
+ubicación con mapa y llamada a pedir cita. Animaciones suaves de aparición (motion-kit).
 
 ## Ver en local
 
@@ -17,6 +17,7 @@ y abre http://localhost:8777
 | Archivo | Qué es |
 |---|---|
 | `index.html` | La web |
+| `clinica-dental-dra-cortes.html` | La web en un solo archivo: se abre con doble clic |
 | `motion.css`, `motion.js` | Motor de animación (motion-kit) |
 | `assets/` | Logo y favicon |
 | `branding.json` | Datos, colores y tipografías usados |
